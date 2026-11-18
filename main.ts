@@ -25,10 +25,10 @@ const MAX_CHARS = 1000;
 function buildPlan(): string {
   const beats = [
     'Plan: sell done-for-you Google Business and review pages to local trades, sample-first, $49 prepaid.',
-    'Day 1: build a one-page offer site and a Stripe payment link; list 500 plumbers, electricians and roofers with thin or unclaimed Google listings from public directories; generate each a live sample page with its name, services and a review link.',
-    "Days 2-5: email 100 a day, one-to-one, each with its own sample link: 'Your page is ready. $49 to keep it live, money-back if no new review in 14 days.' Every message carries an opt-out.",
+    'Day 1: build a one-page offer site and a Stripe payment link; list 3,000 plumbers, electricians and roofers with thin or unclaimed Google listings from public directories; generate each a live sample page with its name, services and a review link.',
+    "Days 2-30: email 100 a day, one-to-one, each with its own sample link: 'Your page is ready. $49 to keep it live, money-back if no new review in 14 days.' Every message carries an opt-out.",
     'Days 6-30: deliver every paid page the same day with code; ask each buyer for one referral; once 5 sales prove the channel, spend $30 on a $5/day ad to the same niche.',
-    'Math: 3,000 emails at a 1% buy rate = 30 sales x $49 = $1,470; costs about $30, so expect $1,000-1,400 by day 30. At a 0.3% rate it is still about $440.',
+    'Math: 2,900 emails at a 1% buy rate = 29 sales x $49 = $1,421; costs about $30, so expect $1,000-1,400 by day 30. At a 0.3% rate it is still about $425.',
     'Rules: keep $40 in reserve; stop any channel with no sale after 300 sends; no client over 10% of revenue; refund the same day, no questions.',
   ];
   return beats.join('\n');
