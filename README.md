@@ -1,0 +1,1 @@
+# makefun-ai-judge-rich-01
